@@ -1,0 +1,23 @@
+/* add code here to make your image 300px square */
+#pet {
+    height: 300px;
+    width: 300px;
+  }
+  
+/* add code here to change the color and font family of your name/title */
+h1 {
+    color:blue;
+    font-family:Papyrus;
+    font-size:x-large;
+  }
+/* Bonus: change the color of your list elements */
+
+
+  
+  .list {
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 25px;
+    background-color: aqua;
+  }
+  

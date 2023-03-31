@@ -1,0 +1,104 @@
+*{
+    text-align: center;
+    margin:1px;
+    font-family: 'Open Sans', sans-serif;
+
+}
+a{
+    text-decoration: none;
+    color:#2f2f2f;
+}
+ul li{
+    list-style-type: none;
+    text-align: left;
+}
+
+.full-body{
+    margin: 100px;
+}
+.card-title{
+    padding: 2em;
+
+}
+.third-row{
+    width: 100%;
+    background-color:#F5F5F5 ;
+    padding: 20px;
+    
+}
+.img-fluid-two{
+    width:100%;
+}
+.forth-row{
+    position: sticky;
+    top: 0;
+    padding:1em;
+  
+    background-color: #e4dfdf;
+}
+
+.forth-row ul li{
+text-decoration: none;
+display: inline-block;
+padding: 1px 4em;
+
+
+}
+p{
+    text-align: center;
+}
+.big-words{
+    text-align: center;
+    font-family: 'Changa One', cursive;
+    font-size: 4em;
+    letter-spacing: 0.3px;
+    line-height: .7;
+}
+h2{
+    text-align:left;
+    font-size: 2em;
+
+}
+h6{
+    padding: 2em;
+}
+img{
+    ;
+}
+.popular{
+    padding:1em;
+}
+.btn {
+    margin:.1em;
+    border-radius: 20px;
+}
+footer{
+    background-color: #111111;
+    padding:7em;
+}
+.above-footer-rows{
+text-align: left;
+  
+    color:black;
+    font-weight:100;
+}
+.above-footer-rows > div {
+    display: inline-block;
+    padding:1em 6em 4em 6em;
+    text-align: left;
+   
+}
+
+.footer-rows{
+
+  
+    color:white;
+    font-weight:100;
+    text-align: left;
+}
+.footer-rows > div{
+    display: inline-block;
+    padding:1px 3em 1px ;
+    text-align: left;
+   
+}
